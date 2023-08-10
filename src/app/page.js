@@ -15,14 +15,14 @@ export default function HomePage() {
         <div className="vstack gap-3">
           <div className="d-flex align-items-center gap-3">
             <img
-              src="/profileImages/handsome.jpg"
+              src="/profileImages/tonkhao.jpg"
               width="48"
               height="48"
               className="rounded-circle"
               style={{ objectFit: "cover" }}
             />
             <span className="fw-semibold fs-5 text-white">
-              Chayanin Suatap 650610560
+              Chananchida Thawornwong 650612080
             </span>
           </div>
 
