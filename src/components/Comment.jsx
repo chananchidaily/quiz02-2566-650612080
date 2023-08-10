@@ -5,8 +5,15 @@ export const Comment = ({
   likeNum,
   replies,
 }) => {
+  const numlikess = likeNum > 0 ;
+
   return (
-    <div>
+    <div className="texts">
+      <img src={userImagePath} alt={
+
+
+
+
       your code here...
       {/* map-loop render Reply component here */}
     </div>
